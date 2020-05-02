@@ -1,0 +1,1 @@
+[26-Apr-2020 23:42:36 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/customer/www/nomads.digitalvillage.network/public_html/wp-content/plugins/woocommerce/includes/admin/reports/class-wc-admin-report.php on line 131
